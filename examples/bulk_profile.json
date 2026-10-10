@@ -1,0 +1,13 @@
+{
+  "gender": "male",
+  "weight_kg": 70,
+  "height_cm": 175,
+  "age": 25,
+  "activity": "active",
+  "goal": "bulk",
+  "meals_per_day": 4,
+  "preferences": {
+    "beef_free": true,
+    "no_sugar": true
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "gender": "male",
+  "weight_kg": 75,
+  "height_cm": 178,
+  "age": 28,
+  "activity": "moderate",
+  "goal": "cut",
+  "meals_per_day": 3,
+  "preferences": {
+    "beef_free": false,
+    "no_sugar": true,
+    "exclude_keywords": []
+  }
+}

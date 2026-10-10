@@ -1,0 +1,101 @@
+{
+  "list": [
+    {
+      "orderId": "1030294390000573057735895257",
+      "createTime": "2026-10-10 11:48:08",
+      "storeName": "麦当劳北京云景东路第二得来速餐厅",
+      "orderStatus": "订单已完成",
+      "orderProductList": [
+        {
+          "productName": "龙焰韩味巨过瘾三人餐",
+          "quantity": 1,
+          "comboItemList": [
+            {"name": "龙焰芝士棒鸡腿堡", "quantity": 1},
+            {"name": "麦辣鸡腿汉堡", "quantity": 1},
+            {"name": "龙焰鸡腿堡", "quantity": 1},
+            {"name": "中薯条", "quantity": 1},
+            {"name": "韩式烟熏芝士风味酱脆皮鸡柳", "quantity": 1},
+            {"name": "5块心形薯饼+韩式辣椒黄油风味酱", "quantity": 1},
+            {"name": "雪碧中杯", "quantity": 3}
+          ]
+        }
+      ]
+    },
+    {
+      "orderId": "1030846580000571570989365906",
+      "createTime": "2026-07-29 21:02:09",
+      "storeName": "麦当劳北京云景东路第二得来速餐厅",
+      "orderStatus": "订单已完成",
+      "orderProductList": [
+        {
+          "productName": "蘸酱炸鸡巨过瘾三人餐",
+          "quantity": 1,
+          "comboItemList": [
+            {"name": "美芝芝拉丝鸡肉堡", "quantity": 1},
+            {"name": "板烧鸡腿堡", "quantity": 1},
+            {"name": "双层脆鸡堡", "quantity": 1},
+            {"name": "4个韩式甜辣酱鸡球（牧场酱）", "quantity": 1},
+            {"name": "脆皮鸡柳", "quantity": 1},
+            {"name": "中薯条", "quantity": 1},
+            {"name": "雪碧中杯", "quantity": 3}
+          ]
+        },
+        {
+          "productName": "柠檬脆脆麦旋风",
+          "quantity": 1,
+          "comboItemList": []
+        }
+      ]
+    },
+    {
+      "orderId": "1030912660000554175268649226",
+      "createTime": "2026-07-29 20:58:01",
+      "storeName": "麦当劳北京云景东路第二得来速餐厅",
+      "orderStatus": "订单已取消",
+      "orderProductList": [
+        {
+          "productName": "蘸酱炸鸡巨过瘾三人餐",
+          "quantity": 1,
+          "comboItemList": [
+            {"name": "美芝芝拉丝鸡肉堡", "quantity": 1},
+            {"name": "板烧鸡腿堡", "quantity": 1},
+            {"name": "Hold不住鸡排堡（椒盐风味）", "quantity": 1},
+            {"name": "4个韩式甜辣酱鸡球（牧场酱）", "quantity": 1},
+            {"name": "脆皮鸡柳", "quantity": 1},
+            {"name": "中薯条", "quantity": 1},
+            {"name": "雪碧中杯", "quantity": 3}
+          ]
+        }
+      ]
+    },
+    {
+      "orderId": "1030918540000793155994264380",
+      "createTime": "2026-07-06 12:50:15",
+      "storeName": "麦当劳北京云景东路第二得来速餐厅",
+      "orderStatus": "订单已完成",
+      "orderProductList": [
+        {
+          "productName": "薯牛尽兴豪华双人餐",
+          "quantity": 1,
+          "comboItemList": [
+            {"name": "厚薯泥培根肉酱双牛堡", "quantity": 1},
+            {"name": "麦辣鸡腿汉堡", "quantity": 1},
+            {"name": "意式辣番茄风味摇滚薯", "quantity": 1},
+            {"name": "脆脆薯格", "quantity": 1},
+            {"name": "可乐中杯", "quantity": 1},
+            {"name": "雪碧中杯", "quantity": 1}
+          ]
+        }
+      ]
+    },
+    {
+      "orderId": "1030838610000567402618743620",
+      "createTime": "2026-01-09 13:51:12",
+      "storeName": "麦当劳北京义和庄泰禾里餐厅",
+      "orderStatus": "订单已完成",
+      "orderProductList": [
+        {"productName": "中薯条", "quantity": 1, "comboItemList": []}
+      ]
+    }
+  ]
+}
